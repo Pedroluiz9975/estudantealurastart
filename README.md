@@ -8,7 +8,7 @@ Boas vindas ao meu perfil 💙💙-Meu nome é Pedro Luiz
 
 
 
--Você pode entrar em contato comigo 📫
+*Você pode entrar em contato comigo 📫
 
 -alurastartestudante@email.com
 
