@@ -12,6 +12,6 @@
 
 -alurastartestudante@email.com
 
--@alurastartestudante
+*pedraocreed@gmail.com*
 
 
