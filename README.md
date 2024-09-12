@@ -1,6 +1,6 @@
 **Boas vindas ao meu perfil** 💙💙
 
--Meu nome é Pedro Luiz
+*Meu nome é Pedro Luiz*
 
 -Estou estudando na Alura
 
